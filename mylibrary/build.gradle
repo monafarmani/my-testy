@@ -76,7 +76,7 @@ afterEvaluate{
                 from components.release
 
                 groupId = 'com.github.monafarmani'
-                artifactId  'image-preview-compose'
+                artifactId = 'image-preview-compose'
                 version ='1.0'
             }
         }
